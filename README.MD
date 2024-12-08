@@ -26,7 +26,11 @@ Este projeto consiste em um chatbot desenvolvido para atender às necessidades d
 
 **Exemplo de Interação:**
 
-![Emissão de Nota Fiscal](https://github.com/LouiseALD/Imagens/emissao_nf.jpg)
+![Menu Inicial](https://github.com/LouiseALD/ChatWhatsAppMEIAutomacao/blob/main/Imagens/menu_inicial.jpg)
+![Emissão de DAS](https://github.com/LouiseALD/ChatWhatsAppMEIAutomacao/blob/main/Imagens/emissao_das.jpg)
+![Emissão de Nota Fiscal](https://github.com/LouiseALD/ChatWhatsAppMEIAutomacao/blob/main/Imagens/emissao_nf.jpg)
+
+
 
 ---
 
