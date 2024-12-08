@@ -24,6 +24,12 @@ Este projeto consiste em um chatbot desenvolvido para atender às necessidades d
    - O Selenium preenche os campos no sistema da prefeitura, gera a nota fiscal e baixa o PDF.
    - O PDF gerado é enviado diretamente ao usuário via WhatsApp.
 
+**Exemplo de Interação:**
+
+![Emissão de Nota Fiscal](https://github.com/LouiseALD/Imagens/emissao_nf.jpg)
+
+---
+
 4. **Respostas Personalizadas**:  
    O chatbot utiliza o nome do usuário e delays simulados para criar uma interação mais humanizada.
 
