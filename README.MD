@@ -3,6 +3,20 @@
 
 Este projeto consiste em um chatbot desenvolvido para atender às necessidades de Microempreendedores Individuais (MEIs), oferecendo automação de tarefas administrativas, como emissão de DAS (Documento de Arrecadação do Simples Nacional) e notas fiscais. O objetivo principal é proporcionar mais autonomia, reduzir a dependência de contadores e simplificar processos burocráticos.
 
+
+### **Atividade Extensionista da Gran Faculdade**
+Este projeto foi desenvolvido como parte de uma atividade extensionista da Gran Faculdade, que busca unir teoria e prática para promover a interação entre o ambiente acadêmico e a sociedade. A proposta é aplicar o conhecimento adquirido no curso para solucionar problemas reais, contribuindo para o desenvolvimento pessoal, acadêmico e social.
+
+### **Objetivo de uma Atividade Extensionista**
+
+As atividades extensionistas têm como objetivo principal conectar o conhecimento acadêmico com as demandas da sociedade, promovendo:
+
+Desenvolvimento Social: Atender às necessidades da comunidade, oferecendo soluções práticas e inovadoras.
+Integração de Saberes: Aplicar o aprendizado teórico em situações práticas, permitindo aos estudantes vivenciar os desafios do mundo real.
+Formação Cidadã: Estimular o senso de responsabilidade social e ética, promovendo o impacto positivo na sociedade.
+Desenvolvimento Profissional: Proporcionar aos estudantes a oportunidade de desenvolver competências técnicas, como programação e automação, além de habilidades interpessoais, como trabalho em equipe e empatia.
+Este projeto de automação para MEIs é um exemplo claro de como a tecnologia pode ser utilizada para beneficiar pequenos empreendedores, promovendo autonomia e simplificação de processos burocráticos, alinhando-se aos objetivos extensionistas da Gran Faculdade.
+
 ---
 
 ## **Funcionalidades**
